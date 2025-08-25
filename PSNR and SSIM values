@@ -1,0 +1,4 @@
+Average PSNR before denoising: 13.6896
+Average SSIM before denoising: 0.2224
+Average PSNR after denoising: 52.9401
+Average SSIM after denoising: 0.9991
